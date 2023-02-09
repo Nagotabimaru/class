@@ -12,4 +12,6 @@ car = Groundtransport('Машина на  гусеницах - Renault 12\n', Ai
 
 print("{}{}".format(car.name, car.caterpillartransport.air))
 
-# Как-то так ? или я усложнил 
+# Как-то так ?
+# Или я все усложнил
+# Надо было просто создать калссы с названиями?
