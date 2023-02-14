@@ -6,6 +6,8 @@ class Groundtransport(object): #Наземный транспорт name гус�
 class AirCushionTransport(object): #транспорт на воздушной подушке
     def __init__(self, air):
         self.air = air
+        
+# Вот тут нужны ещё два класса
 
 Aircushion = AirCushionTransport('Машина на воздушной подушке - SR-N1')
 car = Groundtransport('Машина на  гусеницах - Renault 12\n', Aircushion)
